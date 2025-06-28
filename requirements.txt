@@ -1,4 +1,10 @@
+streamlit
 torch
-gradio
-opencv-python
+opencv-python-headless
+Pillow
+matplotlib
 numpy
+PyYAML
+seaborn
+tqdm
+gitpython
