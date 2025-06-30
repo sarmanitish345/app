@@ -1,4 +1,5 @@
 import os
+import ultralytics
 import streamlit as st
 import torch
 from PIL import Image
