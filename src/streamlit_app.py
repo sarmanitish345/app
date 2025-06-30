@@ -1,4 +1,6 @@
 import os
+import cv2
+st.write("✅ OpenCV loaded successfully")
 import ultralytics
 import streamlit as st
 import torch
