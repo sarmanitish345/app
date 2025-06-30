@@ -9,7 +9,7 @@ from PIL import Image
 
 @st.cache_resource
 def load_model():
-    return torch.hub.load('yolov5', 'custom', path='best.pt', source='local')
+    return torch.hub.load('yolov5', 'custom', path='../best.pt', source='local')
 
 model = load_model()
 
